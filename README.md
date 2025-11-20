@@ -15,4 +15,4 @@
 ## Docker
 * [Learning Docker](https://youtu.be/pg19Z8LL06w?si=Klp9DdtzcKyhv501)
 * [Docker Installation on ParrotOS](https://netwerklabs.com/install-docker-on-parrotos/)
-* [Setting up MySQL in Docker]
+* [Setting up MySQL in Docker](https://www.datacamp.com/tutorial/set-up-and-configure-mysql-in-docker)
