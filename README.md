@@ -10,7 +10,8 @@
 * Responsivness
 
 ## MySQL 
-* SQL Basics
+* [SQL Basics](https://www.w3schools.com/sql/default.asp)
+* [Normalization](https://youtu.be/UrYLYV7WSHM?si=hnsLRaWFXBRJy56H)
   
 ## Docker
 * [Learning Docker](https://youtu.be/pg19Z8LL06w?si=Klp9DdtzcKyhv501)
